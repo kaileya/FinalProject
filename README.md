@@ -1,5 +1,7 @@
 # FinalProject
 
+video overview: https://clipchamp.com/watch/PoC5z7zUmfs
+
 OVERALL: I am proud of the game I created! This was a tough assignment as I am not a computer science major of any sort, am not involved in the gaming world, and had never coded in another language than python. I am really happy with myself for creating a tangible game in a new language, despite (what felt like) endless blue error screens.
 
 Notes: I recreated the game Breakout by Atari using code from the CS50 Pong assignment. Basing the assignment off of the Pong assignment code made my journey a lot smoother as it gave me a basic structure to understand the setup of a game written in lua. My alterations to the code included changing the direction of the ball movement (vertical rather than horizontal) and its change in direction when colliding with objects (slight changes in the horizontal direction); changing the direction of the paddle movement (horizontal rather than vertical); having the ball move with the paddle only for the start state of the game; adding a grid of blocks in the same table; making the blocks dissappear after being hit; adding to the score when a block is hit; making the ball reverse direction when hitting the top wall, side walls, or bricks; keeping track of rounds; increasing the speed of ball every round; creating a win screen and loss screen
